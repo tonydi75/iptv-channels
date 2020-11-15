@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR: LFM TV FHD" tvg-logo="" group-title="FR VIP FRANCE",FR: LFM TV FHD
+http://ip.sltv.xyz:8080/12months0724/ozLWMY4fWH/288953
+#EXTINF:-1 tvg-id="" tvg-name="FR: -----FRANCE-----" tvg-logo="http://picon.webhop.net/logo/flag/fr.png" group-title="FR FRANCE",FR: -----FRANCE-----
+http://ip.sltv.xyz:8080/12months0724/ozLWMY4fWH/135912
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF1 4K" tvg-logo="http://picon.webhop.net/logo/franceT-220x132/TF1.png" group-title="FR FRANCE FHD",FR: TF1 4K
+http://ip.sltv.xyz:8080/12months0724/ozLWMY4fWH/208895
